@@ -6,6 +6,7 @@ Estas são as cidades atualmente detalhadas para jogo em Valdren. Cidades de out
 
 - [Solara Magna](Solara Magna.md)
 - [Portavael](Portavael.md)
+- [Aurentum](Aurentum.md)
 - [Solael al-Kabir](Solael al-Kabir.md)
 - [Kassamar](Kassamar.md)
 - [Khârum-Dûr](Khârum-Dûr.md)

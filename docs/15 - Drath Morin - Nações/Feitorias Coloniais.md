@@ -10,6 +10,14 @@ Tecnicamente são "postos comerciais". Na prática, cada feitoria tem dezenas de
 - **Maior feitoria:** [Portão de Ossos](../16 - Drath Morin - Cidades/Portão de Ossos.md)
 - **Figura mais reconhecida:** [Governador Alden Trois](../19 - Drath Morin - Personagens/Alden Trois.md)
 
+## Feitorias Conhecidas
+
+Das seis feitorias da Costa dos Ossos, três têm registro detalhado na sua tradição interna:
+
+- [Portão de Ossos](../16 - Drath Morin - Cidades/Portão de Ossos.md) — maior feitoria imperial, sede do Governador Trois
+- [Fortaleza Arcana de Sithara](../16 - Drath Morin - Cidades/Fortaleza Arcana de Sithara.md) — feitoria arcana, a mais isolada e mais temida
+- [Feitoria Livre de Kael-Thar](../16 - Drath Morin - Cidades/Feitoria Livre de Kael-Thar.md) — a feitoria independente, sem guarnição nem imposto
+
 ## Cultura
 
 A cultura das feitorias é a do limiar: gente vinda de fora que se considera superior ao lugar, convivendo com gente nativa que apenas tolera a presença. A tensão é constante, nem sempre violenta. As três feitorias imperiais seguem o estilo solariano; as duas arcanas seguem padrões diferentes uma da outra; a feitoria independente segue o que conseguir.

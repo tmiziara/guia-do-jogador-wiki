@@ -15,6 +15,15 @@ Na prática, o poder imperial não pertence apenas ao trono. Ele é disputado en
 
 Para uma visão mais detalhada, veja [Política do Império Solariano](Política do Império Solariano.md).
 
+## Cidades
+
+Além da capital, o Império se estrutura em torno de algumas cidades de peso estratégico ou religioso:
+
+- [Solara Magna](../04 - Valdren - Cidades/Solara Magna.md) — capital imperial
+- [Portavael](../04 - Valdren - Cidades/Portavael.md) — principal porto comercial, na costa oeste
+- [Thyrakind](../04 - Valdren - Cidades/Thyrakind.md) — cidade-fronteira do norte, porta das Marcas
+- [Aurentum](../04 - Valdren - Cidades/Aurentum.md) — cidade sagrada do interior, sede do Conclave dos Bispos
+
 ## Cultura
 
 A cultura solariana valoriza **ordem, hierarquia e permanência**. O dever cívico, o respeito à autoridade, a grandiosidade arquitetônica e a devoção a [Vaelun](../06 - Religiões/Vaelun.md) são vistos como virtudes centrais. Esse orgulho, porém, frequentemente se transforma em arrogância cultural diante de povos menos centralizados ou menos ricos.

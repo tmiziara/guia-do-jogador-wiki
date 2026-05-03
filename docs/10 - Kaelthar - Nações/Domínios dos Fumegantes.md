@@ -10,6 +10,13 @@ Humanos e outras raças vivem ali como cidadãos de segunda classe — aceitos, 
 - **Capital de referência:** [Pyrath Kalesh](../11 - Kaelthar - Cidades/Pyrath Kalesh.md)
 - **Figura mais influente:** [Vuraathos, o Imortal](../14 - Kaelthar - Personagens/Vuraathos.md)
 
+## Cidades
+
+Os Domínios são reconhecidos por duas grandes cidades-ilha, ambas centradas em vulcões ativos:
+
+- [Pyrath Kalesh](../11 - Kaelthar - Cidades/Pyrath Kalesh.md) — capital de referência, sede do dragão-senhor mais antigo
+- [Kraethos](../11 - Kaelthar - Cidades/Kraethos.md) — segunda grande corte dracônica
+
 ## Cultura
 
 A cultura dos Domínios é grandiosa, formal e rigorosamente hierárquica. Honra dracônica é levada a sério: promessas não podem ser quebradas, desafios aceitos não podem ser recusados, e dragões que matam por capricho perdem prestígio entre seus pares. Dentro das regras, qualquer raça pode prosperar — mas as regras não são negociáveis.

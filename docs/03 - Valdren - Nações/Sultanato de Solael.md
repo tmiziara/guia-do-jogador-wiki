@@ -13,6 +13,13 @@ O sultanato vive de contrastes extremos: oásis ricos cercados por pobreza bruta
 
 O Sultão governa acima dos imãs e do aparelho militar, mas a estabilidade do regime depende justamente do equilíbrio entre esses poderes. Sultanatos fortes sabem administrar essa tensão; os fracos costumam afundar nela.
 
+## Cidades
+
+O sultanato organiza-se em torno de duas grandes cidades, com peso muito desigual:
+
+- [Solael al-Kabir](../04 - Valdren - Cidades/Solael al-Kabir.md) — capital teocrática, no interior do deserto
+- [Kassamar](../04 - Valdren - Cidades/Kassamar.md) — único porto funcional, fonte real da riqueza solaelina
+
 ## Cultura
 
 A cultura solaelina valoriza **intensidade, hospitalidade e devoção**. A fé em [Nar](../06 - Religiões/Nar.md) não é silenciosa: ela é cantada, dançada, proclamada em mesquitas e inscrita na arquitetura. Receber um viajante é dever sagrado. Trair a palavra dada, por outro lado, é ofensa grave.

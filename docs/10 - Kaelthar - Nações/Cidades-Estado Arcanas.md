@@ -4,6 +4,16 @@ As **Cidades-Estado Arcanas** são centros independentes de poder mágico em [Ka
 
 Para estrangeiros, essas cidades são famosas por academias, laboratórios, pactos de proteção, artefatos instáveis e leis difíceis de entender. Para seus habitantes, magia não é exceção: é infraestrutura, moeda, arma e prestígio social.
 
+## Cidades
+
+Cinco cidades-estado dividem o poder arcano de Kaelthar, cada uma com identidade própria:
+
+- [Arxil](../11 - Kaelthar - Cidades/Arxil.md) — *A Mais Alta*
+- [Vel Sorreth](../11 - Kaelthar - Cidades/Vel Sorreth.md) — *A Mais Antiga*
+- [Karreth](../11 - Kaelthar - Cidades/Karreth.md) — *A Mais Poderosa*
+- [Sithara](../11 - Kaelthar - Cidades/Sithara.md) — *A Mais Secreta*
+- [Embrath](../11 - Kaelthar - Cidades/Embrath.md) — *A Mais Nova*
+
 ## O Que se Diz
 
 - Algumas cidades aceitam estudantes estrangeiros, desde que alguém pague ou garanta sua segurança.
